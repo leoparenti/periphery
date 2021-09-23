@@ -42,7 +42,7 @@ dependencies.append(
     .package(
         name: "XcodeProj",
         url: "https://github.com/tuist/xcodeproj",
-        from: "8.0.0"
+        from: "8.3.0"
     )
 )
 #endif
